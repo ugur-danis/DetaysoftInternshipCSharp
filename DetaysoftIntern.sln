@@ -41,6 +41,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Linq", "Linq", "{4CC82EEE-0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DetaysoftIntern.Linq", "DetaysoftIntern.Linq\DetaysoftIntern.Linq.csproj", "{79014F35-B354-402E-83D0-66737EFF1D5E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Serialization And Deserialization", "Serialization And Deserialization", "{9B4207FF-C677-433D-B50D-D89FD2DDC525}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DetaysoftIntern.JsonSerializationAndDeserialization", "DetaysoftIntern.SerializationAndDeserialization\DetaysoftIntern.JsonSerializationAndDeserialization.csproj", "{EC26BB4B-A1C0-474B-B69E-268C66976EBC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -95,6 +99,10 @@ Global
 		{79014F35-B354-402E-83D0-66737EFF1D5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79014F35-B354-402E-83D0-66737EFF1D5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79014F35-B354-402E-83D0-66737EFF1D5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC26BB4B-A1C0-474B-B69E-268C66976EBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC26BB4B-A1C0-474B-B69E-268C66976EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC26BB4B-A1C0-474B-B69E-268C66976EBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC26BB4B-A1C0-474B-B69E-268C66976EBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -112,6 +120,7 @@ Global
 		{D0F5985B-9270-4D08-AA64-85986EC71435} = {419EFA6D-1CD0-43AA-90B6-C9A0351C8A92}
 		{3391AA55-DF34-496C-9640-762DA56D6059} = {E7F4B15F-15C9-4F8E-B0A3-579E79A250AB}
 		{79014F35-B354-402E-83D0-66737EFF1D5E} = {4CC82EEE-0669-40CF-9BB3-78CBE5E8699F}
+		{EC26BB4B-A1C0-474B-B69E-268C66976EBC} = {9B4207FF-C677-433D-B50D-D89FD2DDC525}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9EBCBF22-0767-4124-ADB3-1DBE8F54D15B}
