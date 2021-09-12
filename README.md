@@ -1,2 +1,2 @@
 # DetaysoftIntern
- My internship projects at Detaysoft
+ My internship c# projects at Detaysoft
